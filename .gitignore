@@ -1,3 +1,5 @@
+code-snapshots
+config
 node_modules
-.DS_Store
 .env
+.DS_Store
